@@ -1,0 +1,32 @@
+_repo: Watteau_41621
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41621-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Hind, C. Lewis (Charles Lewis)
+    aliases:
+    - Hind, Lewis
+    - Hind, C. L. (Charles Lewis)
+    - Hind, Charles Lewis
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7231'
+    url: http://www.gutenberg.org/2009/agents/7231
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2012-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Watteau, Antoine, 1684-1721'
+title: Watteau
+url: http://www.gutenberg.org/ebooks/41621
