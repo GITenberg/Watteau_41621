@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '7231'
     url: http://www.gutenberg.org/2009/agents/7231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41621#Watteau
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2012-12-14'
 gutenberg_type: Text
